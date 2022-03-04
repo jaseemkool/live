@@ -1,9 +1,9 @@
-## Kerala Police Telecommunication
+## Tele DCMU
 
-You canvasvasvsadvdsvdsvsdsdvasdvsu commit to this reposisdvsadvsadv sdvsdsvsdves will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tele DCMU Malappuram
 
-### Markdown
-sdvsdvsdvasdvdsv svasadcdhtweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Malappuram
+Kerala Police Telecommunication Sub Unit Malappuram
 
 ```markdown
 Syntax highlighted code block
@@ -25,10 +25,10 @@ Syntax highlighted code block
 
 For more detailv as sav ng-syntax).
 
-### Jekys vsad sd sd saThemes
+### Location
 
-Your Pages site will use the layout and stylessdfdsfdsvs s dfdfcsdcfsdig.yml` configuration file.
+DPO Anex Building
 
-### Supporfsdfdsfsdfsdfsdontact
+### Contact
 
-Having trouble with Pages? Check out  sfvdsfdsfdsfsdfsdfsd sort it out.
+Contact Number: 1097
